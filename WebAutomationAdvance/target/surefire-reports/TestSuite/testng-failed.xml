@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestSuite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" parallel="methods" name="flight Test(failed)" verbose="0">
+    <classes>
+      <class name="test.FlightsTest">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="openBrowser"/>
+          <include name="ExtractValue"/>
+        </methods>
+      </class> <!-- test.FlightsTest -->
+    </classes>
+  </test> <!-- flight Test(failed) -->
+</suite> <!-- Failed suite [TestSuite] -->
