@@ -12,5 +12,8 @@ Web Automation Advance Selenium merupakan sebuah mini project / tugas untuk meng
 ## Running
 mvn test -Pmakemytrip
 
+## Hasil
+![image](https://github.com/Gvskaa/Web_Automation_Advance_Selenium/assets/84846008/5c77c354-9100-4fcc-a4f9-226feccd3598)
+
 ## Author
 - Dinda Yustika
